@@ -4,11 +4,12 @@
 
 ###
 
+<div>
 <h1 align="center">Hi there, I'm Alireza Moradi <img height="24" src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Folded%20Hands%20Light%20Skin%20Tone.png"></h1>
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">👩‍💻 About Me</h3>
 
 ###
 
@@ -17,9 +18,11 @@
 ###
 
 <p align="left">- 🔭 I’m working as FrontEnd Developer | React.js | Angular | Flutter |<br>- 📚 I'm currently learning Next.js Framework</p>
+</div>
 
 ###
 
+<div>
 <h3 align="left">🛠 Technologies & Skils</h3>
 
 ###
@@ -49,9 +52,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
 </div>
+</div>
 
-###
-
+## Github Status
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Alirezawmoradi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=algolia&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=Alirezawmoradi&locale=en&mode=daily&theme=algolia&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
