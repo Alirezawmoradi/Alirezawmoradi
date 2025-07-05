@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="350" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/octocat/spidertocat.png?raw=true"  />
+  <img height="350" width="350" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/octocat/spidertocat.png?raw=true"  />
 </div>
 
 ###
