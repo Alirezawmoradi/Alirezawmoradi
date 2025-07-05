@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="350" width="350" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/octocat/spidertocat.png?raw=true"  />
+  <img height="350" width="500" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/octocat/spidertocat.png?raw=true"  />
 </div>
 
 ###
@@ -55,9 +55,9 @@
 </div>
 
 ## Github Status
-<div align="center">
+<div align="center" width="100%">
   <img src="https://github-readme-stats.vercel.app/api?username=Alirezawmoradi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&theme=algolia&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=Alirezawmoradi&locale=en&mode=daily&theme=algolia&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=Alirezawmoradi&locale=en&mode=daily&theme=algolia&hide_border=false&border_radius=5&order=3" height="150"  alt="streak graph"  />
 </div>
 
 ###
